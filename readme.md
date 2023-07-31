@@ -5,4 +5,6 @@
    <h1 align="center">Taqlla</h1>
 </div>
 
-Yachacushum [talla](pacaya.md)
+Yachacushum [taqlla](pacaya.md) kay proyectoqa experimentalmi libre kanki chayta
+utilizanaykipaq sichus yachanki imatachus ruwan chayta manan imamantapas
+responsabilidadta hap’iykuchu.
